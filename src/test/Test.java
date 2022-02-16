@@ -29,6 +29,7 @@ public class Test extends T {
         System.out.println(gg);
         String a = "s";
         String b = "s";
+        System.out.println("zheli ");
         switch (b){
             case "s":
                 System.out.println(b);
